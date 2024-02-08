@@ -10,8 +10,8 @@ API, которое на HTTP-запрос GET /weather?city=<city_name>,
 
 # Stack
 - Python 3.10
-- Django 4.2.8
-- Djangoresframework 3.14
+- Django==5.0.2
+- djangorestframework==3.14.0
 - Redis
 - aiogram
 - more info in requirements.py 
